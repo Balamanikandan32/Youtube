@@ -8,7 +8,8 @@ const Sidebar = () => {
 
   
   return (
-    <div className="p-5 w-52 h-[580px] overflow-y-scroll">
+    <div className="p-5">
+      <div className="w-48 h-[580px] overflow-y-scroll">
       <ul>
         <li>Home</li>
         <li>Shorts</li>
@@ -44,6 +45,7 @@ const Sidebar = () => {
         <li>YouTube Kids</li>
       </ul>
       <hr />
+      </div>
     </div>
   );
 };

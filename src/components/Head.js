@@ -19,7 +19,9 @@ const Head = () => {
           alt="hamger-Icon"
           onClick={toggleMenuHandler}
         />
-        <img className="h-16" src={youtubeLogo} alt="Youtube-Logo" />
+        <a href="/">
+          <img className="h-16" src={youtubeLogo} alt="Youtube-Logo" />
+        </a>
       </div>
       <div className="flex col-span-10">
         <input

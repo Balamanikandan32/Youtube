@@ -6,6 +6,11 @@
 - Build the Sidebar Component
 - create store using reduxjs/toolkit (appSlice)
 - Implemented HamburgerMenu Feature
+- Implemented MainContainer and fetch api youtube data
+- update store with videos and Build the VideoCard Component 
+- Setup the routing
+- Build the Watch page
+
 
 # Features
 
@@ -18,5 +23,5 @@
         - ButtonList
         - Video Container
           - Video Card
-
+ - Watch Page
      
