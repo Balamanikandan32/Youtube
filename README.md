@@ -10,6 +10,10 @@
 - update store with videos and Build the VideoCard Component 
 - Setup the routing
 - Build the Watch page
+- Implemented Search Feature and Debouncing 
+- cache the result of search for better performance (to avoid unnecessary api call for previous result)
+
+  
 
 
 # Features
@@ -24,4 +28,3 @@
         - Video Container
           - Video Card
  - Watch Page
-     
