@@ -12,6 +12,8 @@
 - Build the Watch page
 - Implemented Search Feature and Debouncing 
 - cache the result of search for better performance (to avoid unnecessary api call for previous result)
+- Implement comment feature in watch page 
+
 
   
 
